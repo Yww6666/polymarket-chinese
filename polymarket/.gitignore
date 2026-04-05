@@ -1,0 +1,24 @@
+# Test files
+test-site.py
+test-screenshot*.png
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Claude
+.claude/
+
+# Old test files
+test.html
+test2.html
+demo.html
+simple-test.html
+standalone.html
