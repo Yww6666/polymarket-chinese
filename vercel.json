@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "name": "polymarket-chinese",
+  "public": true,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ],
+  "github": {
+    "enabled": false
+  }
+}
